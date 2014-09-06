@@ -1,0 +1,18 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "convert notes in to frequencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "keywords": [
+    "webaudio",
+    "web-audio-api"
+  ],
+  "author": "Jamison Dance <jergason@gmail.com> (http://jamisondance.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
