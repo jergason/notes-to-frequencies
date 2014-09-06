@@ -1,5 +1,5 @@
 {
-  "name": "notes",
+  "name": "notes-to-frequencies",
   "version": "1.0.0",
   "description": "convert notes in to frequencies",
   "main": "index.js",
@@ -10,6 +10,10 @@
     "webaudio",
     "web-audio-api"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jergason/notes-to-frequencies"
+  },
   "author": "Jamison Dance <jergason@gmail.com> (http://jamisondance.com)",
   "license": "MIT",
   "devDependencies": {
